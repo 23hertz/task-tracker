@@ -3,7 +3,7 @@ import "./App.css";
 import { useEffect } from "react";
 import FormSection from "./components/FormSection";
 import ListSection from "./components/ListSection";
-import TotalSection from "./components/totalSection";
+import TotalSection from "./components/TotalSection";
 import ExpensesL from "./components/ExpensesL";
 import Search from "./components/Search";
 
